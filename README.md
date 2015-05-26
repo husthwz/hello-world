@@ -1,2 +1,9 @@
 # hello-world
-just have a try
+#include<stdio.h>
+#include<stdlib.h>
+
+void main()
+{
+  printf("hello world");
+  system("pause");
+}
